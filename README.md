@@ -42,7 +42,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sjsin0905&show_icons=true&theme=radical) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjsin0905&layout=compact&theme=dracula)](https://github.com/metleeha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjsin0905&layout=compact&theme=dracula)](https://github.com/sjsin0905)
 
 <hr>
 
