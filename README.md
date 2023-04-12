@@ -17,6 +17,7 @@
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white" />
+	<img src="https://img.shields.io/badge/csharp-239120?style=flat&logo=csharp&logoColor=white" />
 </div>
 <br>
 <div align="center">
