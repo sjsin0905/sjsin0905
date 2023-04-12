@@ -9,7 +9,7 @@
 ### 📧Email📧
 
 <div align="center">
-	<img src="https://img.shields.io/badge/Naveaaaar-03C75A?style=flat&logo=Naver&logoColor=white"/>
+	<img src="https://img.shields.io/badge/sjsin0905@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/>
 </div>
 
 ### ☁️SNS list☁️
