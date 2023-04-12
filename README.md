@@ -33,12 +33,16 @@
 	</a>
 	<br>
 </div>
-<div align=center>
-	<br>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjsin0905&layout=compact"><br><br>
-		<img src="https://github-readme-stats.vercel.app/api?username=sjsin0905&show_icons=true">
-</div>
 <br>
+</h1></div>
+
+<div align=center>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sjsin0905&show_icons=true&theme=radical) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjsin0905&layout=compact&theme=dracula)](https://github.com/metleeha)
+
+<hr>
 
 <!--
 **sjsin0905/sjsin0905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
