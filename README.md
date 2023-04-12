@@ -1,18 +1,15 @@
-### ⚒️Tech Stack⚒️
-
 <div align="center">
+	### ⚒️Tech Stack⚒️
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-</div>
-
-### 📧Email📧
-
-<div align="center">
+	
+	### 📧Email📧
 	<img src="https://img.shields.io/badge/sjsin0905@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/>
-</div>
+
 
 ### ☁️SNS list☁️
+</div>
 <!--
 **sjsin0905/sjsin0905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
