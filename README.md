@@ -17,6 +17,7 @@
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
+	<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white" />
 	<img src="https://img.shields.io/badge/csharp-239120?style=flat&logo=csharp&logoColor=white" />
